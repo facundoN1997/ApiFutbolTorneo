@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = apiFutbol
+build_property.RootNamespace = apiFutbol
+build_property.ProjectDir = C:\Users\facun\OneDrive\Escritorio\desarrollos\apiFutbol\apiFutbol\apiFutbol\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\facun\OneDrive\Escritorio\desarrollos\apiFutbol\apiFutbol\apiFutbol
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/EquipoFutbols/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvRnV0Ym9sc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/EquipoFutbols/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvRnV0Ym9sc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/EquipoFutbols/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvRnV0Ym9sc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/EquipoFutbols/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvRnV0Ym9sc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/EquipoFutbols/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvRnV0Ym9sc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/jugadorFutbols/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanVnYWRvckZ1dGJvbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/jugadorFutbols/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanVnYWRvckZ1dGJvbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/jugadorFutbols/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanVnYWRvckZ1dGJvbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/jugadorFutbols/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanVnYWRvckZ1dGJvbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/jugadorFutbols/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanVnYWRvckZ1dGJvbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/facun/OneDrive/Escritorio/desarrollos/apiFutbol/apiFutbol/apiFutbol/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
