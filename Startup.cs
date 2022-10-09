@@ -2,6 +2,15 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
+
+
+
+
+
+
+
+
+s
 namespace apiFutbol
 {
     public class Startup
